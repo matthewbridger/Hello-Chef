@@ -1,9 +1,32 @@
-# Recipe-App - 3rd Year group project
+<p align="center">
+  <b>
+Recipe-App - 3rd Year group project
+  </b>
+</p>
+<p align="center">
+Recipe app build with React Native, CSS, FireBase/MongoDB in order to save user ingredents on the database and provide them with recipes to cook.
+</p>
 
-https://github.com/matthewbridger/Hello-Chef/blob/main/Poster.png
-![alt text](https://github.com/matthewbridger/Hello-Chef/blob/main/Poster.png?raw=true)
+<p>
+  Project Demo
+</p>
+<a href="https://www.w3schools.com/">Video Demo</a>
 
 
-Written in React Native and CSS
 
-Database used was Firebase and Mongo DB
+
+
+
+<p>
+  Poster for the App
+</p>
+<img width="500" src="https://github.com/matthewbridger/Hello-Chef/blob/main/Poster.png" alt="Material Bread logo">
+
+
+
+
+
+
+
+
+
