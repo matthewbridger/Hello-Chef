@@ -17,7 +17,7 @@ Recipe app build with React Native, CSS, FireBase/MongoDB in order to save user 
 
 
 <h1 style="font-size:300%;">Poster for app</h1>
-<img width="700" src="https://github.com/matthewbridger/Hello-Chef/blob/main/Poster.png" alt="Material Bread logo">
+<img width="700" src="https://github.com/matthewbridger/Hello-Chef/blob/main/Poster.png" alt="">
 
 
 
